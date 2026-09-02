@@ -68,6 +68,12 @@
                 <scope>provided</scope>
             </dependency>
 
+			<dependency>
+				<groupId>com.mysql</groupId>
+				<artifactId>mysql-connector-j</artifactId>
+				<version>8.1.0</version>
+				<scope>compile</scope>
+			</dependency>
             <dependency>
                 <groupId>com.mulesoft.modules</groupId>
                 <artifactId>mule-secure-configuration-property-module</artifactId>
