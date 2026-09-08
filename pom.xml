@@ -158,7 +158,7 @@
             <dependency>
                 <groupId>org.mule.modules</groupId>
                 <artifactId>mule-module-file-extension-common</artifactId>
-                <version>1.3.4</version>
+                <version>1.4.1</version>
                 <classifier>mule-plugin</classifier>
             </dependency>
 
