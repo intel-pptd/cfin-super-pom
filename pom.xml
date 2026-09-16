@@ -295,7 +295,7 @@
             <dependency>
                     <groupId>com.mulesoft.connectors</groupId>
                     <artifactId>mule-ldap-connector</artifactId>
-                    <version>3.5.0</version>
+                    <version>3.7.1</version>
                     <classifier>mule-plugin</classifier>
                     </dependency>
             <dependency>
