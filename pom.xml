@@ -135,6 +135,11 @@
                 <artifactId>mysql-connector-j</artifactId>
                 <version>9.6.0</version>
             </dependency>
+			<dependency>
+			<groupId>org.raml</groupId>
+			<artifactId>raml-parser-2</artifactId>
+			<version>1.0.44-15</version>
+			</dependency>
 
             <dependency>
                 <groupId>com.mulesoft.connectors</groupId>
@@ -225,7 +230,27 @@
                 <version>1.10.0</version>
                 <classifier>mule-plugin</classifier>
             </dependency>
-
+			
+			<dependency>
+				<groupId>org.bouncycastle</groupId>
+				<artifactId>bcprov-jdk18on</artifactId>
+				<version>1.80</version>
+			</dependency>
+			<dependency>
+				<groupId>org.bouncycastle</groupId>
+				<artifactId>bcpg-jdk18on</artifactId>
+				<version>1.80</version>
+			</dependency>
+			<dependency>
+				<groupId>org.bouncycastle</groupId>
+				<artifactId>bcpkix-jdk18on</artifactId>
+				<version>1.80</version>
+			</dependency>
+			<dependency>
+				<groupId>org.bouncycastle</groupId>
+				<artifactId>bcutil-jdk18on</artifactId>
+				<version>1.80</version>
+			</dependency>
             <dependency>
                 <groupId>fc983659-35e3-47bf-8b47-f90cdf5bf8ea</groupId>
                 <artifactId>error-response</artifactId>
