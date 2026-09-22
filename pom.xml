@@ -165,7 +165,7 @@
 			<dependency>
 				<groupId>org.mule.modules</groupId>
 				<artifactId>mule-module-file-extension-common</artifactId>
-				<version>1.4.3</version>
+				<version>1.4.5</version>
 				<classifier>mule-plugin</classifier>
 		   </dependency>
             <dependency>
@@ -199,7 +199,7 @@
             <dependency>
                 <groupId>org.mule.connectors</groupId>
                 <artifactId>mule-file-connector</artifactId>
-                <version>1.5.2</version>
+                <version>1.5.3</version>
                 <classifier>mule-plugin</classifier>
             </dependency>
 
